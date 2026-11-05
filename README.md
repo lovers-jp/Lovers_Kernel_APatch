@@ -12,8 +12,6 @@ BBRv3
 
 ZRAM Multi Compression
 
-NoMount+UID isolation Built-in
-
 BORE+EEVDF Pixel Tuning
 
 ADIOS Scheduler
