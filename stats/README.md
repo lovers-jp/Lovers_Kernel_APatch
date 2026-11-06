@@ -1,23 +1,26 @@
 # Lovers_Kernel_Apatch｜Release ダウンロード統計
 
-集計日（日本時間）：**2026-11-05**
+集計日（日本時間）：**2026-11-06**
 
-**全添付ファイルの累計ダウンロード数：8 回**
+**全添付ファイルの累計ダウンロード数：9 回**
 
 | 種類 | 累計DL数 |
 |---|---:|
-| Kernel (boot.img / boot.zip) | 3 |
+| Kernel (boot.img / boot.zip) | 4 |
 | APatch / SuSFS ZIP | 3 |
 | Lovers Kernel Tuner APK | 2 |
 | その他の添付ファイル | 0 |
 
-集計対象：**6 ファイル** ／ 前回記録日：**2026-11-04**
-前回記録からの増加：**+0**
+集計対象：**9 ファイル** ／ 前回記録日：**2026-11-05**
+前回記録からの増加：**+1**
 
 ## リリース・ファイル別内訳
 
 | リリース | 種類 | ファイル | 累計DL数 | 前回記録比 |
 |---|---|---|---:|---:|
+| 2026110500 | APatch / SuSFS ZIP | apatch-susfs-control-v2.0.1-webui-20261102.zip | 0 | — |
+| 2026110500 | Kernel (boot.img / boot.zip) | boot.zip | 1 | — |
+| 2026110500 | Lovers Kernel Tuner APK | Lovers-Kernel-Tuner-v1.3.1.apk | 0 | — |
 | 2026110200 | APatch / SuSFS ZIP | apatch-susfs-control-v2.0.1-webui-20261102.zip | 1 | +0 |
 | 2026110200 | Kernel (boot.img / boot.zip) | boot.zip | 1 | +0 |
 | 2026110200 | Lovers Kernel Tuner APK | Lovers-Kernel-Tuner-v1.3.1.apk | 1 | +0 |
