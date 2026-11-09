@@ -8,7 +8,7 @@
 
 [English](README.md) | [日本語](README_ja.md)
 
-Lovers Kernel APatchは、**Pixel 11シリーズ**を対象に、CPUスケジューラ・メモリ管理・ストレージ・ネットワークの変更をまとめたカスタムカーネルです。APatch／FolkPatchによるroot環境を想定し、**Lovers Kernel Tuner**による学習・設定管理と連携します。
+Lovers Kernel APatchは、**Pixel 11シリーズ**を対象に、CPUスケジューラ・メモリ管理・ストレージ・ネットワークの変更をまとめたカスタムカーネルです。APatch-Baseによるroot環境を想定し、**Lovers Kernel Tuner**による学習・設定管理と連携します。
 
 ## 主な機能
 
