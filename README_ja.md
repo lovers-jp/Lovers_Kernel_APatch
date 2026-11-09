@@ -48,7 +48,7 @@ APatch／FolkPatch ManagerでモジュールZIPを導入し、再起動後に管
 
 | 配布物 | 使用方法 |
 |---|---|
-| カーネル（`boot.img`） | APatch／FolkPatchなどの対応する管理アプリでパッチを適用し、パッチ済みの`boot.img`を生成 |
+| カーネル（`boot.img`） | APatch-Baseなどの対応する管理アプリでパッチを適用し、パッチ済みの`boot.img`を生成 |
 | SUSFS制御モジュールZIP | 対応するAPatch系管理アプリのモジュールとして導入 |
 | Lovers Kernel Tuner APK | Androidアプリとしてインストールし、初回起動時にrootを許可 |
 
