@@ -5,7 +5,7 @@
 
 [English](README.md) | [日本語](README_ja.md)
 
-Lovers Kernel APatch combines CPU scheduling, memory management, storage, and networking changes for the **Pixel 11 family**. It is designed for APatch/FolkPatch rooting workflows, with optional learning and control through **Lovers Kernel Tuner**.
+"Lovers Kernel APatch" is designed for the **Pixel 11 series** and incorporates modifications related to CPU scheduling, memory management, storage, and networking. The project is built around a rooting workflow that utilizes "APatch-Base," with optional learning and control features available via "Lovers Kernel Tuner."
 
 ## Features
 
