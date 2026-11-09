@@ -39,7 +39,7 @@ The kernel provides the scheduling, IRQ-balancing, and recompression mechanisms;
 
 **APatch SUSFS Control WebUI ** provides Japanese/English configuration for the standalone **`v2.3.0-ap1 / APatch-GKI`** SUSFS port.
 
-Install its module ZIP through APatch/FolkPatch Manager, reboot, and open its WebUI from the manager. It supports saved rules, boot application, status reports, and configuration backup/restore. Some rule changes require a reboot. This WebUI release's physical-device operation remains unverified.
+Install its module ZIP through APatch-Base Manager, reboot, and open its WebUI from the manager. It supports saved rules, boot application, status reports, and configuration backup/restore. Some rule changes require a reboot. This WebUI release's physical-device operation remains unverified.
 
 ## Using this project
 
