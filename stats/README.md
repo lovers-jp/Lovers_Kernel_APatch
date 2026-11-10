@@ -1,31 +1,37 @@
 # Lovers_Kernel_Apatch｜Release ダウンロード統計
 
-集計日（日本時間）：**2026-11-09**
+集計日（日本時間）：**2026-11-10**
 
-**全添付ファイルの累計ダウンロード数：12 回**
+**全添付ファイルの累計ダウンロード数：27 回**
 
 | 種類 | 累計DL数 |
 |---|---:|
-| Kernel (boot.img / boot.zip) | 6 |
-| APatch / SuSFS ZIP | 4 |
-| Lovers Kernel Tuner APK | 2 |
+| Kernel (boot.img / boot.zip) | 12 |
+| APatch / SuSFS ZIP | 9 |
+| Lovers Kernel Tuner APK | 6 |
 | その他の添付ファイル | 0 |
 
-集計対象：**9 ファイル** ／ 前回記録日：**2026-11-08**
-前回記録からの増加：**+0**
+集計対象：**15 ファイル** ／ 前回記録日：**2026-11-09**
+前回記録からの増加：**+15**
 
 ## リリース・ファイル別内訳
 
 | リリース | 種類 | ファイル | 累計DL数 | 前回記録比 |
 |---|---|---|---:|---:|
+| 2026111000 | APatch / SuSFS ZIP | apatch-susfs-control-v2.1.0-webui-20261110.zip | 1 | — |
+| 2026111000 | Kernel (boot.img / boot.zip) | boot.zip | 1 | — |
+| 2026111000 | Lovers Kernel Tuner APK | Lovers-Kernel-Tuner-v1.4.1.apk | 1 | — |
+| 2026110900 | APatch / SuSFS ZIP | apatch-susfs-control-v2.0.1-webui-20261102.zip | 3 | — |
+| 2026110900 | Kernel (boot.img / boot.zip) | boot.zip | 2 | — |
+| 2026110900 | Lovers Kernel Tuner APK | Lovers-Kernel-Tuner-v1.4.0.apk | 2 | — |
 | 2026110500 | APatch / SuSFS ZIP | apatch-susfs-control-v2.0.1-webui-20261102.zip | 1 | +0 |
-| 2026110500 | Kernel (boot.img / boot.zip) | boot.zip | 3 | +0 |
-| 2026110500 | Lovers Kernel Tuner APK | Lovers-Kernel-Tuner-v1.3.1.apk | 0 | +0 |
+| 2026110500 | Kernel (boot.img / boot.zip) | boot.zip | 4 | +1 |
+| 2026110500 | Lovers Kernel Tuner APK | Lovers-Kernel-Tuner-v1.3.1.apk | 1 | +1 |
 | 2026110200 | APatch / SuSFS ZIP | apatch-susfs-control-v2.0.1-webui-20261102.zip | 1 | +0 |
-| 2026110200 | Kernel (boot.img / boot.zip) | boot.zip | 1 | +0 |
+| 2026110200 | Kernel (boot.img / boot.zip) | boot.zip | 2 | +1 |
 | 2026110200 | Lovers Kernel Tuner APK | Lovers-Kernel-Tuner-v1.3.1.apk | 1 | +0 |
-| 2026102800 | APatch / SuSFS ZIP | apatch-susfs-control-v2.0.0-webui-20261028.zip | 2 | +0 |
-| 2026102800 | Kernel (boot.img / boot.zip) | boot.zip | 2 | +0 |
+| 2026102800 | APatch / SuSFS ZIP | apatch-susfs-control-v2.0.0-webui-20261028.zip | 3 | +1 |
+| 2026102800 | Kernel (boot.img / boot.zip) | boot.zip | 3 | +1 |
 | 2026102800 | Lovers Kernel Tuner APK | Lovers-Kernel-Tuner-v1.3.1.apk | 1 | +0 |
 
 ## データファイル
