@@ -16,7 +16,7 @@ from urllib.error import HTTPError, URLError
 from urllib.request import Request, urlopen
 from zoneinfo import ZoneInfo
 
-REPOSITORY = os.environ.get("GITHUB_REPOSITORY", "lovers-jp/Lovers_Kernel_Apatch")
+REPOSITORY = os.environ.get("GITHUB_REPOSITORY", "lovers-jp/Lovers_Kernel_APatch")
 TOKEN = os.environ.get("GH_TOKEN") or os.environ.get("GITHUB_TOKEN", "")
 DATE = datetime.now(ZoneInfo("Asia/Tokyo")).strftime("%Y-%m-%d")
 STATS = Path("stats")
@@ -44,15 +44,15 @@ def category(filename):
 
 
 def releases_from_github():
-    if REPOSITORY != "lovers-jp/Lovers_Kernel_Apatch":
-        raise ValueError(f"Incorrect repository: {REPOSITORY}. Expected lovers-jp/Lovers_Kernel_Apatch")
+    if REPOSITORY != "lovers-jp/Lovers_Kernel_APatch":
+        raise ValueError(f"Incorrect repository: {REPOSITORY}. Expected lovers-jp/Lovers_Kernel_APatch")
     result = []
     page = 1
     while True:
         url = f"https://api.github.com/repos/{REPOSITORY}/releases?per_page=100&page={page}"
         headers = {
             "Accept": "application/vnd.github+json",
-            "User-Agent": "LoversKernelApatch-Stats",
+            "User-Agent": "LoversKernelAPatch-Stats",
             "X-GitHub-Api-Version": "2022-11-28",
         }
         if TOKEN:
