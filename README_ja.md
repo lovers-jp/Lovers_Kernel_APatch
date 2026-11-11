@@ -40,7 +40,7 @@ CPU配置・IRQ分散・再圧縮はカーネルが実行し、アプリは対�
 
 ### APatch SUSFS Control WebUI
 
-**APatch SUSFS Control WebUI**は、独立SUSFS **`v2.3.0-ap1 / APatch-GKI`**向けの日本語／英語対応設定モジュールです。
+**APatch SUSFS Control WebUI**は、独立SUSFS **`v2.4.0-ap1 / APatch-GKI`**向けの日本語／英語対応設定モジュールです。
 
 APatch-Base ManagerでモジュールZIPを導入し、再起動後に管理アプリからWebUIを開きます。ルールの保存・起動時適用・状態表示・設定のバックアップ／復元に対応します。一部のルール変更には再起動が必要です。このWebUI版の実機動作は未検証です。
 
