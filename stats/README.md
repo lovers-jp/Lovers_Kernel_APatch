@@ -1,29 +1,32 @@
 # Lovers_Kernel_Apatch｜Release ダウンロード統計
 
-集計日（日本時間）：**2026-11-19**
+集計日（日本時間）：**2026-11-20**
 
-**全添付ファイルの累計ダウンロード数：34 回**
+**全添付ファイルの累計ダウンロード数：37 回**
 
 | 種類 | 累計DL数 |
 |---|---:|
-| Kernel (boot.img / boot.zip) | 16 |
-| APatch / SuSFS ZIP | 10 |
+| Kernel (boot.img / boot.zip) | 18 |
+| APatch / SuSFS ZIP | 11 |
 | Lovers Kernel Tuner APK | 8 |
 | その他の添付ファイル | 0 |
 
-集計対象：**27 ファイル** ／ 前回記録日：**2026-11-18**
-前回記録からの増加：**+4**
+集計対象：**30 ファイル** ／ 前回記録日：**2026-11-19**
+前回記録からの増加：**+3**
 
 ## リリース・ファイル別内訳
 
 | リリース | 種類 | ファイル | 累計DL数 | 前回記録比 |
 |---|---|---|---:|---:|
-| CP4A.261105.040.D1 | APatch / SuSFS ZIP | apatch-susfs-control-v2.4.0-webui-20261115.zip | 0 | — |
-| CP4A.261105.040.D1 | Kernel (boot.img / boot.zip) | boot.zip | 1 | — |
-| CP4A.261105.040.D1 | Lovers Kernel Tuner APK | Lovers-Kernel-Tuner-v1.6.1.apk | 0 | — |
-| 2026111800 | APatch / SuSFS ZIP | apatch-susfs-control-v2.4.0-webui-20261115.zip | 1 | — |
-| 2026111800 | Kernel (boot.img / boot.zip) | boot.zip | 1 | — |
-| 2026111800 | Lovers Kernel Tuner APK | Lovers-Kernel-Tuner-v1.6.1.apk | 1 | — |
+| 2026112000 | APatch / SuSFS ZIP | apatch-susfs-control-v2.4.0-webui-20261115.zip | 1 | — |
+| 2026112000 | Kernel (boot.img / boot.zip) | boot.zip | 2 | — |
+| 2026112000 | Lovers Kernel Tuner APK | Lovers-Kernel-Tuner-v1.6.1.apk | 0 | — |
+| CP4A.261105.040.D1 | APatch / SuSFS ZIP | apatch-susfs-control-v2.4.0-webui-20261115.zip | 0 | +0 |
+| CP4A.261105.040.D1 | Kernel (boot.img / boot.zip) | boot.zip | 1 | +0 |
+| CP4A.261105.040.D1 | Lovers Kernel Tuner APK | Lovers-Kernel-Tuner-v1.6.1.apk | 0 | +0 |
+| 2026111800 | APatch / SuSFS ZIP | apatch-susfs-control-v2.4.0-webui-20261115.zip | 1 | +0 |
+| 2026111800 | Kernel (boot.img / boot.zip) | boot.zip | 1 | +0 |
+| 2026111800 | Lovers Kernel Tuner APK | Lovers-Kernel-Tuner-v1.6.1.apk | 1 | +0 |
 | 2026111400 | APatch / SuSFS ZIP | apatch-susfs-control-v2.4.0-webui-20261115.zip | 0 | +0 |
 | 2026111400 | Kernel (boot.img / boot.zip) | boot.zip | 1 | +0 |
 | 2026111400 | Lovers Kernel Tuner APK | Lovers-Kernel-Tuner-v1.4.1.apk | 1 | +0 |
